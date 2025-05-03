@@ -6,8 +6,8 @@
   <p>♣️ ..</p>
 
 <div class="graphics">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
+  <img height="70%" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
+  <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
 </div>
 <br>
   <div align="center">
