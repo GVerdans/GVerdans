@@ -24,9 +24,10 @@ Gosto de aprender coisas novas, resolver problemas e me divertir com isso. 😎
 ---
 
 ### 📊 Um pouco sobre minha atividade no GitHub:
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
+</div>
 
 ---
 
