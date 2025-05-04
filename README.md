@@ -1,33 +1,35 @@
-# Olá, me chamo Gabriel Verdan.
+## 👋 Opa! Eu sou o Gabriel Verdan 😄
 
-  <p>♠️ 1⁰ período de ADS.</p>
-  <p>♥️ Estudando Laravel no momento.</p>
-  <p>♦️ Dev Junior</p>
-  <p>♣️ ..</p>
+Sou um entusiasta da tecnologia, apaixonado por desenvolvimento web e por transformar ideias em códigos!  
+Gosto de aprender coisas novas, resolver problemas e me divertir com isso. 😎
 
-<div class="graphics">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
-</div>
-<br>
-  <div align="center">
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
-			<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-</div>
+---
 
-  <hr>
-  
-<div>
-    <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  <a href = "https://www.linkedin.com/in/gabriel-verdan-418129312/" target="_blank">
-  </a>
-</div>
-  
+### 🛠️ Tecnologias com as quais trabalho:
 
-  
-  
-</div>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+
+---
+
+### 🌐 Onde me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-verdan-418129312/)
+- 🚧 Portfólio: Em construção... 👷‍♂️
+
+---
+
+### 📊 Um pouco sobre minha atividade no GitHub:
+
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&theme=neon&show_icons=true">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&theme=neon&show_icons=true">
+
+---
+
+> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
+
+---
