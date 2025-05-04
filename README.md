@@ -33,3 +33,7 @@ Gosto de aprender coisas novas, resolver problemas e me divertir com isso. 😎
 > “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
 
 ---
+
+<div align="center">
+  <img src="monke.gif" alt="Monke limpando" width="200"/>
+</div>
