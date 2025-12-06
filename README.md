@@ -13,11 +13,14 @@
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Bootstrap-101010?style=for-the-badge&logo=bootstrap" />
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js" />
 </p>
+
 
 ---
 
