@@ -1,3 +1,8 @@
+🌐 **Languages:**  
+🇧🇷 Português (Você está aqui) | 🇺🇸 [English](README.en.md)
+
+---
+
 <h1 align="center">👋 Olá! Eu sou Gabriel Verdan</h1>
 
 <p align="center">
