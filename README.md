@@ -35,8 +35,7 @@
   https://www.linkedin.com/in/gabriel-verdan-418129312/
 
 - 🚀 **Portfólio:** *(em construção)*  
-  https://gverdans.github.io
-
+https://gverdans.github.io/portifolio-GVS/
 ---
 
 ## 📊 Um pouco sobre minha atividade no GitHub:
