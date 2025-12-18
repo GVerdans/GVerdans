@@ -28,8 +28,8 @@
 - 🧳 **LinkedIn:**  
   https://www.linkedin.com/in/gabriel-verdan-418129312/
 
-- 🚀 **Portfolio:** *(under construction)*  
-  https://gverdans.github.io
+- 🚀 **Portfolio:** 
+ https://gverdans.github.io/portifolio-GVS/
 
 ---
 
