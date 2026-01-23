@@ -58,7 +58,7 @@ https://gverdans.github.io/portifolio-GVS/
 ---
 
 ## 🎯 Sobre mim
-✔️ Militar em processo de baixa com experiência em documentação, logística e processos burocráticos  
+✔️ Militar em Transição de Carreira com experiência em documentação, logística e processos burocráticos  
 ✔️ Atualmente estudando TI e desenvolvimento web  
 ✔️ Buscando minha primeira oportunidade como **Desenvolvedor Fullstack Júnior**  
 ✔️ Experiência com: HTML, CSS, JS, PHP, Node.js, SQL, Git, Linux e muito mais!
