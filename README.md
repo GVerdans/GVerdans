@@ -34,21 +34,22 @@
 - 🧳 **LinkedIn:**  
   https://www.linkedin.com/in/gabriel-verdan-418129312/
 
-- 🚀 **Portfólio:** *(em construção)*  
+- 🚀 **Portfólio:**
 https://gverdans.github.io/portifolio-GVS/
 ---
 
 ## 📊 Um pouco sobre minha atividade no GitHub:
 
+<!-- 
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=GVerdans&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🧠 Frase favorita
@@ -67,6 +68,6 @@ https://gverdans.github.io/portifolio-GVS/
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZzdGhlOXA0ZTZkczNnM2NmeDl1a2lpb3lvd3A1MG9qdWQwYmI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" width="300">
-    <img src="monke.gif" alt="Monke limpando" width="200"/>
+ <!--   <img src="monke.gif" alt="Monke limpando" width="200"/> -->
 
 </p>
