@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css" />
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Bootstrap-101010?style=for-the-badge&logo=bootstrap" />
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php" />
@@ -27,42 +27,43 @@
 </p>
 
 
+<!--
 ---
+## 📌 Projetos em Destaque
+
+- 🌐 **[Nome do Projeto 1](link-do-repositorio):** Uma aplicação web desenvolvida em Node.js e MongoDB para resolver o problema X.
+- 📊 **[Nome do Projeto 2](link-do-repositorio):** Sistema de gestão feito em PHP e MySQL focado em automação de processos.
+
+--- 
+-->
 
 ## 🌍 Onde me encontrar:
 
-- 🧳 **LinkedIn:**  
-  https://www.linkedin.com/in/gabriel-verdan-418129312/
+- 🧳 **LinkedIn:**
+  https://www.linkedin.com/in/gverdan/
 
 - 🚀 **Portfólio:**
 https://gverdans.github.io/portifolio-GVS/
----
+--- 
 
 ## 📊 Um pouco sobre minha atividade no GitHub:
 
-<!-- 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=GVerdans&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gverdans&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gverdans&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
--->
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GVerdans&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVerdans&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
+---  
 
 ## 🧠 Frase favorita
 
 > “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
 
----
+--- 
 
-## 🎯 Sobre mim
-✔️ Militar em Transição de Carreira com experiência em documentação, logística e processos burocráticos  
-✔️ Atualmente estudando TI e desenvolvimento web  
-✔️ Buscando minha primeira oportunidade como **Desenvolvedor Fullstack Júnior**  
-✔️ Experiência com: HTML, CSS, JS, PHP, Node.js, SQL, Git, Linux e muito mais!
+## 🎯 Sobre mim  
+🎖️ Militar em Transição de Carreira: Unindo 7 anos de disciplina, resiliência e foco em resolução de problemas da Marinha do Brasil com o desenvolvimento de software  
+🚀 Atualmente aprofundando conhecimentos em arquitetura de sistemas e metodologias ágeis.  
 
 ---
 
